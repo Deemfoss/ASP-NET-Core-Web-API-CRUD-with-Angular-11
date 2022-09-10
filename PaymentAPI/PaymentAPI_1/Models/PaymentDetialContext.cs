@@ -8,7 +8,6 @@ namespace PaymentAPI.Models
         {
 
         }
-
         public DbSet<PaymentDetail> PaymentDetails { get; set; }
     }
 }
